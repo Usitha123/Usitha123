@@ -1,6 +1,3 @@
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Usitha%20Kalyana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Information%20Technology&descAlignY=55&descSize=18" width="100%"/>
-
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,6 +7,9 @@
 
 <!-- Social badges -->
 <p align="center">
+  <a href="https://usitha.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/usitha-kalyana-4a3627299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -32,6 +32,7 @@
 - 🎓 Passionate about **Computer Science and Information Technology**
 - 🌱 Always exploring new frameworks, tools, and ideas
 - 💬 Ask me about web dev, mobile dev, or machine learning
+- 🌐 View my portfolio at **[usitha.me](https://usitha.me/)**
 - 📫 Reach me at **usithakalyana@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into working prototypes
 
@@ -122,6 +123,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://usitha.me/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat&logo=googlechrome&logoColor=white" alt="portfolio" height="30" /></a>
 <a href="https://linkedin.com/in/usitha-kalyana-4a3627299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
